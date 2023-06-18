@@ -12,7 +12,13 @@ There’s one JS file for the “data” layer of the app: js/models.js contains
 
 For the UI layer, we’ve broken this into several files by topic:
 
-js/main.js contains code for starting the UI of the application, and other miscellaneous things. js/user.js contains code for UI about logging in/signing up/logging out, as well as code about remembering a user when they refresh the page and logging them in automatically. js/stories.js contains code for UI about listing stories. js/nav.js contains code to show/hide things in the navigation bar, and well as code for when a user clicks in that bar.
+- js/main.js contains code for starting the UI of the application, and other miscellaneous things.
+
+- js/user.js contains code for UI about logging in/signing up/logging out, as well as code about remembering a user when they refresh the page and logging them in automatically. 
+
+- js/stories.js contains code for UI about listing stories.
+
+- js/nav.js contains code to show/hide things in the navigation bar, and well as code for when a user clicks in that bar.
 
 For a visual map on the code logic, see http://curric.rithmschool.com/springboard/exercises/hack-or-snooze-ajax-api/_images/design.svg
 
